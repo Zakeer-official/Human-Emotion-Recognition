@@ -181,29 +181,38 @@ Application: Extract HOG features to represent facial expressions and use these 
 <h3>OUTPUT:</h3>
 
 <h4>KEYFRAME - 1:</h4>
-![image](https://github.com/Zakeer-official/Human-Emotion-Recognition/assets/102544273/f00006f2-2fef-4c5c-beed-f6c0fce75d3a)
+
+![image](https://github.com/Zakeer-official/Human-Emotion-Recognition/assets/102544273/2ddd1558-dea3-41c3-aa2f-d8b17366d1e7)
+
 
 <h4>KEYFRAME – 2:</h4>
+
 ![image](https://github.com/Zakeer-official/Human-Emotion-Recognition/assets/102544273/61191580-1bd7-4001-956c-a6cd19f313f0)
 
 <h4>KEYFRAME – 3:</h4>
+
 ![image](https://github.com/Zakeer-official/Human-Emotion-Recognition/assets/102544273/ac63c6d3-b4f5-4ec1-b1ad-ff9eba0726cb)
 
 <h4>KEYFRAME – 4:</h4>
+
  ![image](https://github.com/Zakeer-official/Human-Emotion-Recognition/assets/102544273/808fa455-2881-4148-93ef-8d7d808dafd0)
 
 <h4>KEYFRAME – 5:</h4>
+
 ![image](https://github.com/Zakeer-official/Human-Emotion-Recognition/assets/102544273/544fd2f9-f5da-46dc-95e2-7f26132a6491)
 
 <h2>Optical Flow Algorithm –</h2>
 
 <h3>Sparse Optical Flow</h3>
+
  ![image](https://github.com/Zakeer-official/Human-Emotion-Recognition/assets/102544273/4fc23ffd-7d96-4fae-bf69-036373dadb2c)
 
 <h3>Dense Optical Flow</h3>
+
  ![image](https://github.com/Zakeer-official/Human-Emotion-Recognition/assets/102544273/5dba2182-d0c7-442e-8db3-9db93ac2537f)
 
 <h3>Classifiers for recognition</h3>
+
 ![image](https://github.com/Zakeer-official/Human-Emotion-Recognition/assets/102544273/4bedc7a9-6a59-4926-9778-e9ca811a57cf)
  
 

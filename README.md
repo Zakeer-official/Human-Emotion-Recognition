@@ -117,7 +117,7 @@ Example: A high dynamic range (HDR) camera can capture both bright and dark area
 10. Image Stabilization: Reduces blurriness caused by camera motion.
 Example: Optical or digital image stabilization can help maintain image clarity when the camera is handheld or subject to minor movements.
 
-# MAGE PROCESSING TECHNIQUES
+# IMAGE PROCESSING TECHNIQUES
 
 <h3>->	Gray scale </h3>
 

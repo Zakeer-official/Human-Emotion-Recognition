@@ -1,7 +1,7 @@
 <h1 align="center">HUMAN-EMOTION-RECOGNITION</h1>
 
 
-# PROBLEM STATEMENT		
+# PROBLEM STATEMENT	
 The goal of this project is to develop a computer vision system that can accurately recognize and classify human emotions based on facial expressions.			
  <h2>OBJECTIVE</h2>
 <pre>•Collect and preprocess a large dataset of facial images with labeled emotions.
